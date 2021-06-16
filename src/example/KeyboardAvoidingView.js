@@ -9,7 +9,7 @@ import {
 import CheckBox from 'react-native-modest-checkbox';
 
 import InputText from "./../components/InputText";
-import styles from "./style";
+import styles from "./../containers/style";
 
 export default class Register extends Component {
 	constructor(props) {
